@@ -1,182 +1,201 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Yessersan%20Santiago&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a0a0f,30:0d1b2a,60:1b2a4a,100:0f3460&text=Yezer%20Santiago&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Enterprise%20Solutions&descSize=18&descAlignY=62&descColor=64b5f6"/>
 
-<h1 align="center">👋 Hola, soy Yessersan Santiago</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Desarrollador Full Stack | Django • Angular • Laravel
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&multiline=false&width=680&lines=Django+%E2%80%A2+Angular+%E2%80%A2+Laravel+%E2%80%A2+PostgreSQL;Full+Stack+Web+Developer;Enterprise+Systems+Architect;REST+APIs+%7C+Clean+Architecture+%7C+DevOps)](https://git.io/typing-svg)
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Especialista+en+Django+y+Angular;Apasionado+por+la+Ingenier%C3%ADa+de+Software;Construyendo+soluciones+empresariales" />
-</p>
+</div>
 
 ---
 
-## 🚀 Sobre mí
+## ⚡ About Me
 
-Soy desarrollador Full Stack con experiencia en el desarrollo de sistemas web empresariales, aplicaciones académicas y plataformas de gestión institucional.
-
-Actualmente trabajo en proyectos relacionados con:
-
-🏛️ Gestión de Bienes Patrimoniales
-
-📚 Sistemas Académicos
-
-🚗 Sistemas de Alquiler de Vehículos
-
-🌐 Aplicaciones Web Empresariales
-
-📊 Bases de Datos y Reportes
-
-⚙️ APIs REST con Django
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,angular,typescript,js,html,css,bootstrap,php,laravel,mysql,postgresql,sqlite,git,github,vscode,linux,docker,postman" />
-</p>
+```yaml
+name: Yezer Santiago
+location: Peru 🇵🇪
+role: Full Stack Developer
+focus:
+  - Enterprise Web Applications
+  - Academic Management Systems
+  - Institutional Asset Control
+  - Business Intelligence & Reporting
+currently_learning:
+  - Clean Architecture & Microservices
+  - Docker & DevOps pipelines
+  - AI integration in enterprise systems
+goal: Build scalable, maintainable, impactful software
+```
 
 ---
 
-## 📂 Proyectos Destacados
+## 🛠️ Tech Stack
 
-### 🏛️ Sistema de Gestión de Bienes Patrimoniales
+### 🔧 Backend
+![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0d1b2a?style=for-the-badge&logo=django&logoColor=092E20)
+![PHP](https://img.shields.io/badge/PHP-0d1b2a?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-0d1b2a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![REST API](https://img.shields.io/badge/REST_API-0d1b2a?style=for-the-badge&logo=fastapi&logoColor=64b5f6)
 
-Sistema integral para el control de bienes patrimoniales con:
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-0d1b2a?style=for-the-badge&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1b2a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1b2a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1b2a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1b2a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-- Gestión de activos
-- Movimientos
-- Responsables
-- Categorías
-- Ubicaciones
-- Auditoría
-- Reportes
-- Generación de QR
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1b2a?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-0d1b2a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-0d1b2a?style=for-the-badge&logo=sqlite&logoColor=003B57)
 
-**Tecnologías:**
-
-`Django` `Angular` `PostgreSQL`
-
----
-
-### 🚗 Sistema de Alquiler de Autos
-
-Plataforma para:
-
-- Registro de vehículos
-- Gestión de clientes
-- Reservas
-- Contratos
-- Reportes
-
-**Tecnologías:**
-
-`Laravel` `MySQL`
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1b2a?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-0d1b2a?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1b2a?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![VSCode](https://img.shields.io/badge/VS_Code-0d1b2a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
-### 📚 Sistema Académico
+## 📂 Featured Projects
 
-Sistema para instituciones educativas que permite:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Gestión de estudiantes
-- Cursos
-- Matrículas
-- Horarios
-- Reportes académicos
+### 🏛️ Patrimonial Asset Management
+> Enterprise-grade system for institutional asset control
 
-**Tecnologías:**
+**Features:**
+- 📦 Asset lifecycle tracking
+- 🔄 Movement & transfer logs
+- 📍 Location & responsible parties
+- 🔍 Audit trails & compliance
+- 📊 Automated reports
+- 📲 Dynamic QR generation
 
-`Laravel` `MySQL`
+**Stack:** `Django` · `Angular` · `PostgreSQL` · `REST API`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📊 Dashboard y Reportes Empresariales
+### 📚 Academic Management System
+> Full-featured platform for educational institutions
 
-Desarrollo de dashboards para análisis de:
+**Features:**
+- 🎓 Student lifecycle management
+- 📅 Course & schedule builder
+- 📝 Enrollment workflows
+- 📈 Academic reporting & analytics
 
-- Ventas
-- Inventario
-- Utilidades
-- Indicadores KPI
+**Stack:** `Laravel` · `MySQL`
 
-**Tecnologías:**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Power BI` `SQL`
+### 🚗 Vehicle Rental Platform
+> End-to-end car rental management solution
 
----
+**Features:**
+- 🚙 Fleet registration & maintenance
+- 👤 Customer profiles & history
+- 📆 Reservation management
+- 📄 Digital contract generation
+- 📊 Revenue & utilization reports
 
-## 📈 Estadísticas GitHub
+**Stack:** `Laravel` · `MySQL`
 
-<p align="center">
+</td>
+<td width="50%" valign="top">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yessersan&show_icons=true&theme=tokyonight"/>
+### 📊 Enterprise Dashboards & BI
+> Business intelligence solutions for data-driven decisions
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessersan&layout=compact&theme=tokyonight"/>
+**Features:**
+- 💰 Sales & revenue analytics
+- 📦 Inventory performance
+- 📉 Profitability tracking
+- 🎯 KPI monitoring & alerts
 
-</p>
+**Stack:** `Power BI` · `SQL`
 
----
-
-## 🔥 Racha de Contribuciones
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yessersan&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Logros
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yessersan&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-## 📚 Actualmente Aprendiendo
-
-- Arquitectura de Software
-- Docker
-- DevOps
-- Clean Architecture
-- Microservicios
-- Inteligencia Artificial aplicada a Sistemas Empresariales
-
----
-
-## 🎯 Objetivos
-
-✔ Construir soluciones empresariales escalables
-
-✔ Mejorar continuamente mis habilidades Full Stack
-
-✔ Contribuir a proyectos Open Source
-
-✔ Especializarme en Arquitectura de Software
-
-✔ Integrar IA en sistemas de gestión
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Contacto
+## 📈 GitHub Stats
 
-📧 Correo:
+<div align="center">
 
-**sansantiago103@gmail.com**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yessersan&show_icons=true&theme=tokyonight&border_color=1b2a4a&bg_color=0d1b2a&title_color=64b5f6&icon_color=64b5f6&text_color=e2e8f0&hide_border=false&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yessersan&layout=compact&theme=tokyonight&border_color=1b2a4a&bg_color=0d1b2a&title_color=64b5f6&text_color=e2e8f0&hide_border=false&langs_count=8"/>
 
-🌐 GitHub:
+</div>
 
-**https://github.com/yessersan**
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=yessersan&theme=tokyonight&background=0d1b2a&border=1b2a4a&ring=64b5f6&fire=f59e0b&currStreakLabel=64b5f6"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yessersan&theme=tokyonight&margin-w=8&margin-h=8&column=7&no-bg=true"/>
+
+</div>
+
+---
+
+## 🗺️ Activity Graph
+
+<div align="center">
+
+[![Yezer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yessersan&bg_color=0d1b2a&color=64b5f6&line=0f3460&point=f59e0b&area=true&hide_border=true)](https://github.com/yessersan)
+
+</div>
+
+---
+
+## 🧭 Roadmap 2025–2026
+
+```
+✅ Django REST Framework — Production-ready APIs
+✅ Angular — Enterprise SPA architecture
+✅ PostgreSQL — Relational DB design & optimization
+🔄 Docker & CI/CD — Containerization & pipelines
+🔄 Clean Architecture — Scalable code patterns
+🔄 Microservices — Distributed system design
+🔜 AI / ML — Intelligent business automation
+🔜 Cloud Deployment — AWS / GCP
+```
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sansantiago103%40gmail.com-0d1b2a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sansantiago103@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-yessersan-0d1b2a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yessersan)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "La programación es convertir ideas en soluciones."
+*"Software is not just code — it's engineered thinking made real."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f3460,50:1b2a4a,100:0a0a0f"/>
